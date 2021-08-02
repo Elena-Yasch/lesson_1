@@ -9,5 +9,5 @@ print("Сколько тебе лет?")
 age = int(input())
 print("Когда у тебя день рождения?")
 birthday = input()
-print ("Спасибо за ответ!")
+print ("Спасиб!")
 
